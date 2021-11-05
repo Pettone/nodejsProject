@@ -3,3 +3,4 @@ nodejsTablaMultiplicar/salida/*.txt
 nodejsTablaMultiplicar/node_modules
 nodejsConsolaInteractiva/node_modules
 nodejsWebServer/node_modules
+nodejsRestServer/node_modules
